@@ -1,4 +1,5 @@
-#Faça um Programa que peça um valor e mostre na tela se o valor é positivo ou negativo.
+#Faça um Programa que peça um valor e mostre na tela se o valor é 
+# Spositivo ou negativo.
 
 num1= (float(input('Digite um número:')))
 
