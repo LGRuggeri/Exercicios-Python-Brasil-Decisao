@@ -105,13 +105,15 @@ Exemplo 2: Para sacar a quantia de 399 reais, o programa fornece três notas de 
 
 22. Faça um Programa que peça um número inteiro e determine se ele é par ou impar. Dica: utilize o operador módulo (resto da divisão).
 
-23. Faça um Programa que peça um número e informe se o número é inteiro ou decimal. Dica: utilize uma função de arredondamento. Faça um Programa que leia 2 números e em seguida pergunte ao usuário qual operação ele deseja realizar. O resultado da operação deve ser acompanhado de uma frase que diga se o número é:
+23. Faça um Programa que peça um número e informe se o número é inteiro ou decimal. Dica: utilize uma função de arredondamento. 
+
+24. Faça um Programa que leia 2 números e em seguida pergunte ao usuário qual operação ele deseja realizar. O resultado da operação deve ser acompanhado de uma frase que diga se o número é:
 
 par ou ímpar;
 positivo ou negativo;
 inteiro ou decimal.
 
-24. Faça um programa que faça 5 perguntas para uma pessoa sobre um crime. As perguntas são:
+25. Faça um programa que faça 5 perguntas para uma pessoa sobre um crime. As perguntas são:
 
 "Telefonou para a vítima?"
 "Esteve no local do crime?"
@@ -119,13 +121,6 @@ inteiro ou decimal.
 "Devia para a vítima?"
 "Já trabalhou com a vítima?"
 O programa deve no final emitir uma classificação sobre a participação da pessoa no crime. Se a pessoa responder positivamente a 2 questões ela deve ser classificada como "Suspeita", entre 3 e 4 como "Cúmplice" e 5 como "Assassino". Caso contrário, ele será classificado como "Inocente".
-
-25. Faça um programa que faça 5 perguntas para uma pessoa sobre um crime. As perguntas são:
-"Telefonou para a vítima?"
-"Esteve no local do crime?"
-"Mora perto da vítima?"
-"Devia para a vítima?"
-"Já trabalhou com a vítima?" O programa deve no final emitir uma classificação sobre a participação da pessoa no crime. Se a pessoa responder positivamente a 2 questões ela deve ser classificada como "Suspeita", entre 3 e 4 como "Cúmplice" e 5 como "Assassino". Caso contrário, ele será classificado como "Inocente".
 
 26. Um posto está vendendo combustíveis com a seguinte tabela de descontos: Álcool:
 
