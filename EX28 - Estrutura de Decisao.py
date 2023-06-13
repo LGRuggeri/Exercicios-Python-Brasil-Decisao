@@ -67,7 +67,6 @@ def tabajara_dinheiro(tipo_carne,qtd_comprada,forma_pagamento):
         
         
 def tabajara_cartao(tipo_carne,qtd_comprada,forma_pagamento):
-    forma_pagamento==2=='Cartão Tabajara'
     if qtd_comprada <= 5 and tipo_carne == 1:
         valor_file_duplo= 4.9
         valor_compra= qtd_comprada*valor_file_duplo
